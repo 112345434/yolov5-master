@@ -1,0 +1,12 @@
+train: "F:\\pycharmproject\\datasets\\defect\\train\\images"
+test: "F:\\pycharmproject\\datasets\\defect\\test\\images"
+val: "F:\\pycharmproject\\datasets\\defect\\valid\\images"
+nc: 2
+names: ['insulator', 'defect']
+
+roboflow:
+  workspace: 56-2iptl
+  project: -lpne9
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/56-2iptl/-lpne9/dataset/1

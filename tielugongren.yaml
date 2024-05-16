@@ -1,0 +1,6 @@
+train: "C:\\Users\\jsj_gjj\\Desktop\\tielugongren\\train\\images"
+val: "C:\\Users\\jsj_gjj\\Desktop\\tielugongren\\valid\\images"
+
+
+nc: 3
+names: ['vest', 'helmet', 'worker']

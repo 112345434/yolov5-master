@@ -1,0 +1,5 @@
+train: "D:\\Download\\101402 (1)\\train\\train\\images"
+val: "D:\\Download\\101402 (1)\\train\\valid\\images"
+
+nc: 2
+names: [ 'helmet','person']

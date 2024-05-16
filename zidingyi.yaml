@@ -1,0 +1,13 @@
+train: "F:\\pycharmproject\\datasets\\ins detect\\train\\images"
+val: "F:\\pycharmproject\\datasets\\ins detect\\valid\\images"
+test: "F:\\pycharmproject\\datasets\\ins detect\\test\\images"
+
+nc: 2
+names: ['defect', 'insulator']
+
+roboflow:
+  workspace: project-6vng0
+  project: ins-defect
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-6vng0/ins-defect/dataset/1
